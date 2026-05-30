@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcerify",
+        "uuid": 3577288,
+        "checksum": "xvizlk"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
